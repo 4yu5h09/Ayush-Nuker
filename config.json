@@ -1,0 +1,22 @@
+{
+    "token": "bot_token",
+    "proxy": false,
+    "nuke": {
+        "channels_name": [
+            "Ayush Jija Is Here",
+            "Fucked By Sp1it",
+            "Aditya Jija Is Here",
+            "Or Lo Pange Bacho"
+        ],
+        "roles_name": [
+            "wizzed by sp1it",
+            "Ayush owns u",
+            "Aditya runs u"
+        ],
+        "messages_content": [
+            "@everyone @here https://discord.gg/sp1it",
+            "@everyone @here https://discord.gg/sp1it",
+            "@everyone @here https://discord.gg/sp1it"
+        ]
+    }
+}
