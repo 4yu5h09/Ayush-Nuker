@@ -2,7 +2,7 @@
 AYUSH NUKER . PVT NUKER BUT PUBLIC CODE :D
 
 # Usage [Termux Only]
-• pkg install python3 -y
+• pkg install python3 -y \n
 • pkg install git -y
 • git clone https://github.com/4yu5h09/Ayush-Nuker
 • cd Ayush-Nuker
