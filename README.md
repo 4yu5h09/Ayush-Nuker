@@ -6,7 +6,7 @@ AYUSH NUKER . PVT NUKER BUT PUBLIC CODE :D
 
 • pkg install git -y
 
-• git clone https://github.com/4yu5h09/Ayush-Nuker
+• git clone https://github.com/4yu5h09/x777-Nuker
 
 • cd Ayush-Nuker
 
@@ -16,7 +16,7 @@ AYUSH NUKER . PVT NUKER BUT PUBLIC CODE :D
 
 • nano config.json [Edit Everything Then Press Ctrl type x then y in keyboard then enter]
 
-• python Ayush.py
+• python x777.py
 
 # Contact 
 discord : console.py
