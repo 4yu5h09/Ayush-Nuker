@@ -20,3 +20,7 @@ AYUSH NUKER . PVT NUKER BUT PUBLIC CODE :D
 
 # Contact 
 discord : console.py
+
+# Preview 
+
+![Ayush-Nuker](https://github.com/user-attachments/assets/3851b9ad-52fc-40bb-b08b-c60f3fc405ba)
