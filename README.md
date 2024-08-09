@@ -1,5 +1,5 @@
-# Ayush-Nuker
-AYUSH NUKER . PVT NUKER BUT PUBLIC CODE :D
+# x777-Nuker
+x777 NUKER . PVT NUKER BUT PUBLIC CODE :D
 
 # Usage [Termux Only]
 • pkg install python3 -y 
