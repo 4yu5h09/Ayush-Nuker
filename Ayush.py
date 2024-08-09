@@ -18,8 +18,8 @@ Ayush_art = """
                                    {}/   \| | | | | | / __| '_ \
                                   {}/ ___ \ |_| | |_| \__ \ | | |
                                  {}/_/   \_\__, |\__,_|___/_| |_|
-                                  {}        |___/
-                                     *SP1IT ON TOP || AYUSH ON TOP*
+                                            |___/{}
+                                   *SP1IT ON TOP || AYUSH ON TOP*
                               ═══════════════════════════════════         
                          ═════════════════════════════════════════════
 """.format("\x1b[38;5;17m", "\x1b[38;5;18m", "\x1b[38;5;19m", "\x1b[38;5;20m", "\x1b[38;5;21m", "\x1b[0m")
@@ -389,11 +389,11 @@ class Ayush:
             
         elif ans == "10":
             try:
-                response = self.session.get("https://github.com/notspeezy/x444-Nuker/releases/latest")
+                response = self.session.get("https://github.com/4yu5h09/Ayush-Nuker/releases/latest")
                 check_version = response.headers.get('location').split('/')[7].split('v')[1]
                 if VERSION != check_version:
                     print("{}({}Ayush{}) You're using an outdated version!".format("\x1b[0m", "\x1b[38;5;21m", "\x1b[0m"))
-                    webbrowser.open(f"https://github.com/notspeezy/x444-Nuker/releases/tag/{check_version}")
+                    webbrowser.open(f"https://github.com/4yu5h09/Ayush-Nuker/releases/tag/{check_version}")
                 else:
                     print("{}({}Ayush{}) You're using the current version!".format("\x1b[0m", "\x1b[38;5;21m", "\x1b[0m"))
             except:
@@ -404,7 +404,7 @@ class Ayush:
     
         
         elif ans == "11":
-            print("- Ayush Nuker is a nuker on python , dm me if you have any problem in discord : 4yu5h.exe or join sp1it : discord.gg/sp1it")
+            print("- Ayush Nuker is a nuker on python , dm me if you have any problem in discord : console.py")
             input("")
             self.menu()
         
@@ -424,7 +424,7 @@ async def on_ready():
 if __name__ == "__main__":
     try:
         os.system("title Ayush Nuker ^| Authentication & mode con: cols=95 lines=25")
-        guildid = input("{}({}Ayush{}) Guild ID{}:{} ".format("\x1b[0m", "\x1b[38;5;21m", "\x1b[0m", "\x1b[38;5;21m", "\x1b[0m"))
+        guildid = input("{}({}Ayush{})Enter Guild ID{}:{} ".format("\x1b[0m", "\x1b[38;5;21m", "\x1b[0m", "\x1b[38;5;21m", "\x1b[0m"))
         __client__.run(token, bot=True)
     except Exception as e:
         print("{}({}-{}) {}".format("\x1b[0m", "\x1b[31m", "\x1b[0m", e))
